@@ -12,9 +12,19 @@ An AI-powered recipe generator that creates personalized meals using available i
 
 ## Instructions to Use BiteBot 
 
+- Run the Streamlit app:
+```python
+ streamlit run bitebot.py
+```
+
 - Enter your available ingredients, equipment, and dietary restrictions if any.
+  ![bitebot_1](https://github.com/user-attachments/assets/d809e957-0c27-49fa-aa93-a5d2a22ce633)
+  
 - Click the Generate Recipe button.
+  ![bitebot_2](https://github.com/user-attachments/assets/95aa22ee-dc99-4637-a745-83f6d815a4f3)
+  
 - Enjoy a recipe generated to cater to your requirements!
+  ![bitebot_3](https://github.com/user-attachments/assets/a974955c-a10d-475d-9f0e-0a5b323ac23f)
 
 
 ## License
